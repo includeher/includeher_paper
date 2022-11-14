@@ -1,0 +1,403 @@
+{
+    "Biology": {
+        "concept": {
+            "ACT": {
+                "male": 4,
+                "female": 0,
+                "both": 4
+            },
+            "NSW": {
+                "male": 2,
+                "female": 0,
+                "both": 2
+            },
+            "QLD": {
+                "male": 17,
+                "female": 0,
+                "both": 17
+            },
+            "SA and NT": {
+                "male": 8,
+                "female": 0,
+                "both": 8
+            },
+            "TAS": {
+                "male": 1,
+                "female": 0,
+                "both": 1
+            },
+            "VIC": {
+                "male": 2,
+                "female": 0,
+                "both": 2
+            },
+            "WA": {
+                "male": 1,
+                "female": 0,
+                "both": 1
+            }
+        },
+        "scientist": {
+            "ACT": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "NSW": {
+                "male": 10,
+                "female": 0,
+                "both": 10
+            },
+            "QLD": {
+                "male": 6,
+                "female": 1,
+                "both": 7
+            },
+            "SA and NT": {
+                "male": 8,
+                "female": 1,
+                "both": 9
+            },
+            "TAS": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "VIC": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "WA": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            }
+        }
+    },
+    "Chemistry": {
+        "concept": {
+            "ACT": {
+                "male": 4,
+                "female": 0,
+                "both": 4
+            },
+            "NSW": {
+                "male": 19,
+                "female": 0,
+                "both": 19
+            },
+            "QLD": {
+                "male": 28,
+                "female": 0,
+                "both": 28
+            },
+            "SA and NT": {
+                "male": 14,
+                "female": 0,
+                "both": 14
+            },
+            "TAS": {
+                "male": 10,
+                "female": 0,
+                "both": 10
+            },
+            "VIC": {
+                "male": 18,
+                "female": 0,
+                "both": 18
+            },
+            "WA": {
+                "male": 14,
+                "female": 0,
+                "both": 14
+            }
+        },
+        "scientist": {
+            "ACT": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "NSW": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "QLD": {
+                "male": 1,
+                "female": 0,
+                "both": 1
+            },
+            "SA and NT": {
+                "male": 12,
+                "female": 1,
+                "both": 13
+            },
+            "TAS": {
+                "male": 2,
+                "female": 0,
+                "both": 2
+            },
+            "VIC": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "WA": {
+                "male": 6,
+                "female": 0,
+                "both": 6
+            }
+        }
+    },
+    "Physics": {
+        "concept": {
+            "ACT": {
+                "male": 23,
+                "female": 0,
+                "both": 23
+            },
+            "NSW": {
+                "male": 39,
+                "female": 0,
+                "both": 39
+            },
+            "QLD": {
+                "male": 51,
+                "female": 0,
+                "both": 51
+            },
+            "SA and NT": {
+                "male": 101,
+                "female": 0,
+                "both": 101
+            },
+            "TAS": {
+                "male": 23,
+                "female": 0,
+                "both": 23
+            },
+            "VIC": {
+                "male": 34,
+                "female": 0,
+                "both": 34
+            },
+            "WA": {
+                "male": 22,
+                "female": 0,
+                "both": 22
+            }
+        },
+        "scientist": {
+            "ACT": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "NSW": {
+                "male": 19,
+                "female": 0,
+                "both": 19
+            },
+            "QLD": {
+                "male": 24,
+                "female": 0,
+                "both": 24
+            },
+            "SA and NT": {
+                "male": 14,
+                "female": 0,
+                "both": 14
+            },
+            "TAS": {
+                "male": 11,
+                "female": 0,
+                "both": 11
+            },
+            "VIC": {
+                "male": 3,
+                "female": 0,
+                "both": 3
+            },
+            "WA": {
+                "male": 6,
+                "female": 0,
+                "both": 6
+            }
+        }
+    },
+    "Environment": {
+        "concept": {
+            "ACT": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "NSW": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "QLD": {
+                "male": 2,
+                "female": 0,
+                "both": 2
+            },
+            "SA and NT": {
+                "male": 6,
+                "female": 0,
+                "both": 6
+            },
+            "TAS": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "VIC": {
+                "male": 1,
+                "female": 0,
+                "both": 1
+            },
+            "WA": {
+                "male": 1,
+                "female": 0,
+                "both": 1
+            }
+        },
+        "scientist": {
+            "ACT": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "NSW": {
+                "male": 7,
+                "female": 0,
+                "both": 7
+            },
+            "QLD": {
+                "male": 3,
+                "female": 0,
+                "both": 3
+            },
+            "SA and NT": {
+                "male": 2,
+                "female": 0,
+                "both": 2
+            },
+            "TAS": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "VIC": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            },
+            "WA": {
+                "male": 0,
+                "female": 0,
+                "both": 0
+            }
+        }
+    },
+    "overall": {
+        "states": {
+            "ACT": {
+                "concept": 31,
+                "scientist": 0,
+                "total": 31,
+                "% of total mentions": 5.33,
+                "% of total concept mentions": 6.97,
+                "% of total scientist mentions": 0.0
+            },
+            "NSW": {
+                "concept": 60,
+                "scientist": 36,
+                "total": 96,
+                "% of total mentions": 16.49,
+                "% of total concept mentions": 13.48,
+                "% of total scientist mentions": 26.28
+            },
+            "QLD": {
+                "concept": 98,
+                "scientist": 35,
+                "total": 133,
+                "% of total mentions": 22.85,
+                "% of total concept mentions": 22.02,
+                "% of total scientist mentions": 25.55
+            },
+            "SA and NT": {
+                "concept": 129,
+                "scientist": 38,
+                "total": 167,
+                "% of total mentions": 28.69,
+                "% of total concept mentions": 28.99,
+                "% of total scientist mentions": 27.74
+            },
+            "TAS": {
+                "concept": 34,
+                "scientist": 13,
+                "total": 47,
+                "% of total mentions": 8.08,
+                "% of total concept mentions": 7.64,
+                "% of total scientist mentions": 9.49
+            },
+            "VIC": {
+                "concept": 55,
+                "scientist": 3,
+                "total": 58,
+                "% of total mentions": 9.97,
+                "% of total concept mentions": 12.36,
+                "% of total scientist mentions": 2.19
+            },
+            "WA": {
+                "concept": 38,
+                "scientist": 12,
+                "total": 50,
+                "% of total mentions": 8.59,
+                "% of total concept mentions": 8.54,
+                "% of total scientist mentions": 8.76
+            }
+        },
+        "subjects": {
+            "Biology": {
+                "concept": 35,
+                "scientist": 26,
+                "total": 61,
+                "% of total mentions": 10.48,
+                "% of total concept mentions": 7.87,
+                "% of total scientist mentions": 18.98
+            },
+            "Chemistry": {
+                "concept": 107,
+                "scientist": 22,
+                "total": 129,
+                "% of total mentions": 22.16,
+                "% of total concept mentions": 24.04,
+                "% of total scientist mentions": 16.06
+            },
+            "Physics": {
+                "concept": 293,
+                "scientist": 77,
+                "total": 370,
+                "% of total mentions": 63.57,
+                "% of total concept mentions": 65.84,
+                "% of total scientist mentions": 56.2
+            },
+            "Environment": {
+                "concept": 10,
+                "scientist": 12,
+                "total": 22,
+                "% of total mentions": 3.78,
+                "% of total concept mentions": 2.25,
+                "% of total scientist mentions": 8.76
+            }
+        },
+        "total mentions": 582,
+        "total concept mentions": 445,
+        "total scientist mentions": 137
+    }
+}

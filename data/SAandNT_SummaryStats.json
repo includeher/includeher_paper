@@ -1,0 +1,462 @@
+{
+    "subjects": {
+        "physics": {
+            "concept": {
+                "male": 101,
+                "female": 0
+            },
+            "scientist": {
+                "male": 14,
+                "female": 0
+            }
+        },
+        "chemistry": {
+            "concept": {
+                "male": 14,
+                "female": 0
+            },
+            "scientist": {
+                "male": 12,
+                "female": 1
+            }
+        },
+        "biology": {
+            "concept": {
+                "male": 8,
+                "female": 0
+            },
+            "scientist": {
+                "male": 8,
+                "female": 1
+            }
+        },
+        "environment": {
+            "concept": {
+                "male": 6,
+                "female": 0
+            },
+            "scientist": {
+                "male": 2,
+                "female": 0
+            }
+        }
+    },
+    "names": {
+        "Isaac Newton": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 35
+        },
+        "Robert Alexander": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Robert Hooke": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Robert Van de Graaff": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 4
+        },
+        "Georg Ohm": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 5
+        },
+        "Anders Celsius": {
+            "gender": "male",
+            "nationality": "Swedish",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Daniel Fahrenheit": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "William Thomson, Lord Kelvin": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Christian Doppler": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Willebrord Snellius": {
+            "gender": "male",
+            "nationality": "Dutch",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Hans Geiger": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Johannes Kepler": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 13
+        },
+        "Albert Einstein": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 6
+        },
+        "Edwin Hubble": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Hendrik Lorentz": {
+            "gender": "male",
+            "nationality": "Dutch",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Charles-Augustin de Coulomb": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 6
+        },
+        "Michael Faraday": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 4
+        },
+        "Clinton Davisson": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 5
+        },
+        "Lester Germer": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 5
+        },
+        "Heinrich Lenz": {
+            "gender": "male",
+            "nationality": "Russian",
+            "region": "Europe",
+            "number of mentions": 5
+        },
+        "Heinrich Ruhmkorff": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Thomas Young": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Max Planck": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Louis de Broglie": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Joseph von Fraunhofer": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Peter Higgs": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Richard Smalley": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Harold Kroto": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Robert Bunsen": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Gustav Kirchhoff": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Amedeo Avogadro": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Dmitri Mendeleev": {
+            "gender": "male",
+            "nationality": "Russian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Linus Pauling": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Gilbert Lewis": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Rosalind Franklin": {
+            "gender": "female",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Fritz London": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Friedrich Wohler": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "William Perkin": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Friedrich Kekule": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Antoine Lavoisier": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Charles Keeling": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Alan Walsh": {
+            "gender": "male",
+            "nationality": "British-Australian",
+            "region": "Europe-Oceania",
+            "number of mentions": 1
+        },
+        "Henry Le Chatelier": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Fritz Haber": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Bernhard Tollens": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Carl Bosch": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "August Wilhelm von Hofmann": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Camillo Golgi": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "John Snow": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Carl Linnaeus": {
+            "gender": "male",
+            "nationality": "Swedish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Charles Darwin": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "John Gilbert": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "James Watson": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Francis Crick": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Maurice Wilkins": {
+            "gender": "male",
+            "nationality": "New Zealander",
+            "region": "Oceania",
+            "number of mentions": 1
+        },
+        "Andreas Rett": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Hans Krebs": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Justus von Liebig": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Alois Alzheimer": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "James Parkinson": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Gaspard-Gustave de Coriolis": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "William Ferrel": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "George Hadley": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Stanley Miller": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 2
+        },
+        "Harold Urey": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 2
+        },
+        "Milutin Milankovic": {
+            "gender": "male",
+            "nationality": "Serbian",
+            "region": "Europe",
+            "number of mentions": 1
+        }
+    },
+    "overall": {
+        "concept": {
+            "male": 129,
+            "female": 0
+        },
+        "scientist": {
+            "male": 36,
+            "female": 2
+        },
+        "unique": {
+            "male": 65,
+            "female": 1,
+            "region": {
+                "Europe": 52,
+                "Europe-Oceania": 1,
+                "North America": 12,
+                "Oceania": 1
+            }
+        }
+    }
+}

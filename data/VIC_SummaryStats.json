@@ -1,0 +1,256 @@
+{
+    "subjects": {
+        "physics": {
+            "concept": {
+                "male": 34,
+                "female": 0
+            },
+            "scientist": {
+                "male": 3,
+                "female": 0
+            }
+        },
+        "chemistry": {
+            "concept": {
+                "male": 18,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "biology": {
+            "concept": {
+                "male": 2,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "environment": {
+            "concept": {
+                "male": 1,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        }
+    },
+    "names": {
+        "Anders Celsius": {
+            "gender": "male",
+            "nationality": "Swedish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "William Thomson, Lord Kelvin": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Wilhelm Wien": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Josef Stefan": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Ludwig Boltzmann": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Isaac Newton": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 11
+        },
+        "Ejnar Hertzsprung": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Henry Russell": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Karl Schwarzschild": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Enrico Fermi": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Frank Drake": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Daniel Bernoulli": {
+            "gender": "male",
+            "nationality": "Swiss",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Willebrord Snellius": {
+            "gender": "male",
+            "nationality": "Dutch",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Heinrich Magnus": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Albert Einstein": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 7
+        },
+        "Robert Hooke": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Christian Doppler": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Thomas Young": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Louis de Broglie": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Werner Heisenberg": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Niels Bohr": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Erwin Schrodinger": {
+            "gender": "male",
+            "nationality": "Austrian",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Amedeo Avogadro": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Gilbert Lewis": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Johannes Bronsted": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Thomas Lowry": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Michael Faraday": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Henry Le Chatelier": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "James Maxwell": {
+            "gender": "male",
+            "nationality": "Scottish",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Camillo Golgi": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Hans Krebs": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Edward Simpson": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        }
+    },
+    "overall": {
+        "concept": {
+            "male": 55,
+            "female": 0
+        },
+        "scientist": {
+            "male": 3,
+            "female": 0
+        },
+        "unique": {
+            "male": 32,
+            "female": 0,
+            "region": {
+                "Europe": 29,
+                "North America": 3
+            }
+        }
+    }
+}

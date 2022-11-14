@@ -1,0 +1,88 @@
+Subject,Mention,Name of Scientist,Gender,Type of Mention,Nationality,Region,Examinable,Notes
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,no,Non-examinable: mentioned in context paragraph 
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,no,Non-examinable: mentioned in context paragraph 
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Doppler Effect,Christian Doppler,male,concept,Austrian,Europe,yes,
+physics,Snell's law,Willebrord Snellius,male,concept,Dutch,Europe,yes,
+physics,Snell's law,Willebrord Snellius,male,concept,Dutch,Europe,yes,
+physics,Ohms law,Georg Ohm,male,concept,German,Europe,yes,
+physics,Ohms law,Georg Ohm,male,concept,German,Europe,yes,
+physics,Kirchoff's current law,Gustav Kirchhoff,male,concept,German,Europe,yes,
+physics,Kirchoff's voltage law,Gustav Kirchhoff,male,concept,German,Europe,yes,
+physics,Ohms law,Georg Ohm,male,concept,German,Europe,yes,
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Keplers laws ,Johannes Kepler,male,concept,German,Europe,yes,
+physics,Keplers laws ,Johannes Kepler,male,concept,German,Europe,yes,"Example: ""including but not limited to..."""
+physics,Faradays law,Michael Faraday,male,concept,English,Europe,no,Non-examinable: mentioned in context paragraph
+physics,Newtons laws,Isaac Newton,male,concept,English,Europe,yes,
+physics,Faradays law,Michael Faraday,male,concept,English,Europe,yes,
+physics,Lenzs law,Heinrich Lenz,male,concept,Russian,Europe,yes,Continent assigned based on ethnic group
+physics,Lenzs law,Heinrich Lenz,male,concept,Russian,Europe,yes,Continent assigned based on ethnic group
+physics,Lenzs law,Heinrich Lenz,male,concept,Russian,Europe,yes,Continent assigned based on ethnic group
+physics,Newton,Isaac Newton,male,scientist,English,Europe,no,Non-examinable: mentioned in context paragraph
+physics,Maxwell,James Maxwell,male,scientist,Scottish,Europe,no,Non-examinable: mentioned in context paragraph
+physics,Maxwells contribution,James Maxwell,male,scientist,Scottish,Europe,yes,
+physics,Maxwells electromagnetic theory,James Maxwell,male,concept,Scottish,Europe,yes,
+physics,Newton,Isaac Newton,male,scientist,English,Europe,yes,
+physics,Huygens,Christiaan Huygens,male,scientist,Dutch,Europe,yes,Dutch referring to Dutch from The Netherlands
+physics,Malus' law,Etienne-Louis Malus,male,concept,French,Europe,yes,
+physics,Wiens law,Wilhelm Wien,male,concept,German ,Europe,yes,
+physics,Plancks contribution,Max Planck,male,scientist,German,Europe,yes,
+physics,Einsteins two postulates ,Albert Einstein,male,concept,German,Europe,yes,
+physics,Einsteins thought experiments ,Albert Einstein,male,concept,German,Europe,yes,
+physics,Einsteins mass-energy equivalence,Albert Einstein,male,concept,German,Europe,yes,
+physics,Hafele-Keating experiment ,Joseph Hafele;Richard Keating,male;male,concept,American;American,North America;North America,yes;yes,
+physics,Thomson,Joseph Thomson,male,scientist,English,Europe,no,Non-examinable: mentioned in context paragraph
+physics,Rutherford,Ernest Rutherford,male,scientist,New Zealander,Oceania,no,Non-examinable: mentioned in context paragraph
+physics,Bohr,Niels Bohr,male,scientist,Danish,Europe,no,Non-examinable: mentioned in context paragraph
+physics,de Broglie,Louis de Broglie,male,scientist,French,Europe,no,Non-examinable: mentioned in context paragraph
+physics,Schrodinger,Erwin Schrodinger,male,scientist,Austrian,Europe,no,Non-examinable: mentioned in context paragraph
+physics,by Hubble,Edwin Hubble,male,scientist,American ,North America,yes,
+physics,apply Einsteins description,Albert Einstein,male,scientist ,German,Europe,yes,Unnecessary mention 
+physics,Hertzsprung-Russell diagram,Ejnar Hertzsprung;Henry Russell,male;male,concept,Danish;American,Europe;North America,yes;yes,
+physics,Thomsons charge-to-mass experiment,Joseph Thomson,male,concept,English,Europe,yes,Unnecessary mention 
+physics,Millikan's oil drop,Robert Millikan,male,scientist,American,North America,yes,Unnecessary mention 
+physics,Geiger-Marsden experiment,Hans Geiger;Ernest Marsden,male;male,scientist,German;English-New Zealander,Europe;Europe-Oceania,yes;yes,
+physics,Rutherfords model,Ernest Rutherford,male,concept,New Zealander,Oceania,yes,
+physics,Chadwicks discovery,James Chadwick,male,scientist ,English,Europe,yes,
+physics,Rutherford and Bohr atomic models ,Ernest Rutherford;Niels Bohr,male;male,concept,New Zealander;Danish,Oceania;Europe,yes;yes,
+physics,de Broglie's matter waves,Louis de Broglie,male,scientist,French,Europe,yes,"Also called ""matter wave' "
+physics,Schrodinger,Erwin Schrodinger,male,scientist,Austrian,Europe,yes,
+physics,Balmer series,Johann Balmer,male,concept,Swiss,Europe,yes,
+physics,Einsteins mass-energy equivalence,Albert Einstein,male,concept,German,Europe,yes,
+chemistry,Bohr model,Niels Bohr,male,concept,Danish,Europe,yes,
+chemistry,Schrodinger model,Erwin Schrodinger,male,concept,Austrian,Europe,yes,
+chemistry,Lewis dot diagrams,Gilbert Lewis,male,concept,American,North America,yes,
+chemistry,Avagadro's constant,Amedeo Avogadro,male,concept,Italian,Europe,yes,
+chemistry,Avagadro's law,Amedeo Avogadro,male,concept,Italian,Europe,yes,
+chemistry,Gay-Lussac's law,Joseph-Louis Gay-Lussac,male,concept,French,Europe,yes,
+chemistry,Boyle's law,Robert Boyle,male,concept,Irish,Europe,yes,
+chemistry,Charles' law,Jacques Charles,male,concept,French,Europe,yes,
+chemistry,Hess's Law,Germain Hess,male,concept,Swiss,Europe,no,Non-examinable: mentioned in context paragraph 
+chemistry,Hess's Law,Germain Hess,male,concept,Swiss,Europe,yes,
+chemistry,Hess's Law,Germain Hess,male,concept,Swiss,Europe,yes,
+chemistry,Gibbs free energy,Josiah Gibbs,male,concept,American,North America,no,Non-examinable: mentioned in context paragraph 
+chemistry,Gibbs free energy,Josiah Gibbs,male,concept,American,North America,yes,
+chemistry,Gibbs free energy,Josiah Gibbs,male,concept,American,North America,yes,
+chemistry,Le Chatelier's Principle,Henry Le Chatelier,male,concept,French,Europe,yes,
+chemistry,Le Chatelier's Principle,Henry Le Chatelier,male,concept,French,Europe,no,Non-examinable: mentioned in context paragraph 
+chemistry,Arrhenius's theory,Svante Arrhenius,male,concept,Swedish,Europe,yes,"Example: ""including but not limited to..."""
+chemistry,Bronsted-Lowry theory of acids and bases,Johannes Bronsted;Thomas Lowry,male;male,concept,Danish;English,Europe;Europe,yes;yes,"Example: ""including but not limited to..."""
+biology,Charles Darwin,Charles Darwin,male,scientist,English,Europe,yes,
+biology,Darwin and Wallace's Theory of Evolution,Charles Darwin;Alfred Wallace,male;male,concept;concept,English;English,Europe;Europe,yes;yes,
+biology,Darwin and Wallace's Theory of Evolution,Charles Darwin;Alfred Wallace,male;male,concept;concept,English;English,Europe;Europe,yes;yes,
+biology,Watson and Crick model ,James Watson;Francis Crick,male;male,scientist;scientist,American;English,North America;North America,yes;yes,Mentioned in relation to other scientist; Unnecessary mention
+biology,Punnet squares,Reginald Punnett,male,concept,English,Europe,yes,
+biology,Robert Koch,Robert Koch,male,scientist,German,Europe,yes,Mentioned in relation to other scientist
+biology,Louis Pasteur ,Louis Pasteur,male,scientist,French,Europe,yes,Mentioned in relation to other scientist
+biology,Koch's postulates,Robert Koch,male,concept,German,Europe,yes,
+biology,Pasteur's experiements ,Louis Pasteur,male,scientist,French,Europe,yes,
+environment,Wegener,Alfred Wegener,male,scientist,German,Europe,yes,"Example: ""including but not limited to..."""
+environment,Holmes,Arthur Holmes,male,scientist,English,Europe,yes,"Example: ""including but not limited to..."""
+environment,Hess,Harry Hess,male,scientist,American ,North America,yes,"Example: ""including but not limited to..."""
+environment,Vine,Frederick Vine,male,scientist,English,Europe,yes,"Example: ""including but not limited to..."""
+environment,Matthews,Drummond Matthews,male,scientist,English,Europe,yes,"Example: ""including but not limited to..."""
+environment,Urey and Miller's experiments,Harold Urey;Stanley Miller,male;male,scientist;scientist,American;American,North America;North America,yes;yes,Mentioned in relation to other scientist; Unnecessary mention

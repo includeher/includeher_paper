@@ -1,0 +1,227 @@
+{
+    "subjects": {
+        "physics": {
+            "concept": {
+                "male": 22,
+                "female": 0
+            },
+            "scientist": {
+                "male": 6,
+                "female": 0
+            }
+        },
+        "chemistry": {
+            "concept": {
+                "male": 14,
+                "female": 0
+            },
+            "scientist": {
+                "male": 6,
+                "female": 0
+            }
+        },
+        "biology": {
+            "concept": {
+                "male": 1,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "environment": {
+            "concept": {
+                "male": 1,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        }
+    },
+    "names": {
+        "Albert Einstein": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 4
+        },
+        "Isaac Newton": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 9
+        },
+        "Johannes Kepler": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Charles-Augustin de Coulomb": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Heinrich Lenz": {
+            "gender": "male",
+            "nationality": "Russian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Niels Bohr": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Thomas Young": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 4
+        },
+        "Augustin-Jean Fresnel": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Simeon Poisson": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "James Maxwell": {
+            "gender": "male",
+            "nationality": "Scottish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Max Planck": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Edwin Hubble": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 2
+        },
+        "John Dalton": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Joseph Thomson": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Ernest Rutherford": {
+            "gender": "male",
+            "nationality": "New Zealander",
+            "region": "Oceania",
+            "number of mentions": 1
+        },
+        "James Chadwick": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Amedeo Avogadro": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Gilbert Lewis": {
+            "gender": "male",
+            "nationality": "American",
+            "region": "North America",
+            "number of mentions": 1
+        },
+        "Svante Arrhenius": {
+            "gender": "male",
+            "nationality": "Swedish",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Henry Le Chatelier": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Humphry Davy": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Johannes Bronsted": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Thomas Lowry": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Georges Leclanche": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Fritz Haber": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Reginald Punnett": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Friedrich Mohs": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        }
+    },
+    "overall": {
+        "concept": {
+            "male": 38,
+            "female": 0
+        },
+        "scientist": {
+            "male": 12,
+            "female": 0
+        },
+        "unique": {
+            "male": 27,
+            "female": 0,
+            "region": {
+                "Europe": 24,
+                "North America": 2,
+                "Oceania": 1
+            }
+        }
+    }
+}

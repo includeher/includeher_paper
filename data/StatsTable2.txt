@@ -1,0 +1,22 @@
+\begin{tabular}{lr|rr|rr|rr|rr|rr|rr|rr|rr} 
+\toprule 
+{\multirow{2}{*}{Course}} & {\multirow{2}{*}{Type of Mention}} & \multicolumn{2}{c}{ACT} &\multicolumn{2}{c}{NSW} &\multicolumn{2}{c}{QLD} &\multicolumn{2}{c}{SA/NT} & \multicolumn{2}{c}{TAS} &\multicolumn{2}{c}{VIC} &\multicolumn{2}{c}{WA} &\multicolumn{2}{c}{Total} \\ 
+& & male & female & male & female & male & female & male & female & male & female & male & female & male & female & male & female \\ 
+\bottomrule
+\multirow{2}{*}{Biology} & concept & 4 & 0 & 2 & 0 & 17 & 0 & 8 & 0 & 1 & 0 & 2 & 0 & 1 & 0 & 35 & 0\\ 
+ & scientist & 0 & 0 & 10 & 0 & 6 & 1 & 8 & 1 & 0 & 0 & 0 & 0 & 0 & 0 & 24 & 2\\ 
+\hline 
+\multirow{2}{*}{Chemistry} & concept & 4 & 0 & 19 & 0 & 28 & 0 & 14 & 0 & 10 & 0 & 18 & 0 & 14 & 0 & 107 & 0\\ 
+ & scientist & 0 & 0 & 0 & 0 & 1 & 0 & 12 & 1 & 2 & 0 & 0 & 0 & 6 & 0 & 21 & 1\\ 
+\hline 
+\multirow{2}{*}{Physics} & concept & 23 & 0 & 39 & 0 & 51 & 0 & 101 & 0 & 23 & 0 & 34 & 0 & 22 & 0 & 293 & 0\\ 
+ & scientist & 0 & 0 & 19 & 0 & 24 & 0 & 14 & 0 & 11 & 0 & 3 & 0 & 6 & 0 & 77 & 0\\ 
+\hline 
+\multirow{2}{*}{Environment} & concept & 0 & 0 & 0 & 0 & 2 & 0 & 6 & 0 & 0 & 0 & 1 & 0 & 1 & 0 & 10 & 0\\ 
+ & scientist & 0 & 0 & 7 & 0 & 3 & 0 & 2 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 12 & 0\\ 
+\hline 
+\multirow{3}{*}{Total} & concept & 31 & 0 & 60 & 0 & 98 & 0 & 129 & 0 & 34 & 0 & 55 & 0 & 38 & 0 & 445 & 0\\ 
+ & scientist & 0 & 0 & 36 & 0 & 34 & 1 & 36 & 2 & 13 & 0 & 3 & 0 & 12 & 0 & 134 & 3\\ 
+ & Unique names & 14 & 0 & 54 & 0 & 68 & 1 & 65 & 1 & 23 & 0 & 32 & 0 & 27 & 0 & 144 & 1\\ 
+\bottomrule
+\end{tabular} 

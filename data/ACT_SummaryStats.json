@@ -1,0 +1,147 @@
+{
+    "subjects": {
+        "physics": {
+            "concept": {
+                "male": 23,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "chemistry": {
+            "concept": {
+                "male": 4,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "biology": {
+            "concept": {
+                "male": 4,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        },
+        "environment": {
+            "concept": {
+                "male": 0,
+                "female": 0
+            },
+            "scientist": {
+                "male": 0,
+                "female": 0
+            }
+        }
+    },
+    "names": {
+        "Reginald Punnett": {
+            "gender": "male",
+            "nationality": "British",
+            "region": "Europe",
+            "number of mentions": 4
+        },
+        "Amedeo Avogadro": {
+            "gender": "male",
+            "nationality": "Italian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Henry Le Chatelier": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Johannes Bronsted": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Thomas Lowry": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Isaac Newton": {
+            "gender": "male",
+            "nationality": "English",
+            "region": "Europe",
+            "number of mentions": 7
+        },
+        "Albert Einstein": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 2
+        },
+        "Johannes Kepler": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Charles-Augustin de Coulomb": {
+            "gender": "male",
+            "nationality": "French",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Heinrich Lenz": {
+            "gender": "male",
+            "nationality": "Estonian",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Niels Bohr": {
+            "gender": "male",
+            "nationality": "Danish",
+            "region": "Europe",
+            "number of mentions": 3
+        },
+        "Max Planck": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 4
+        },
+        "Johannes Rydberg": {
+            "gender": "male",
+            "nationality": "Swedish",
+            "region": "Europe",
+            "number of mentions": 1
+        },
+        "Wilhelm Wien": {
+            "gender": "male",
+            "nationality": "German",
+            "region": "Europe",
+            "number of mentions": 1
+        }
+    },
+    "overall": {
+        "concept": {
+            "male": 31,
+            "female": 0
+        },
+        "scientist": {
+            "male": 0,
+            "female": 0
+        },
+        "unique": {
+            "male": 14,
+            "female": 0,
+            "region": {
+                "Europe": 14
+            }
+        }
+    }
+}
